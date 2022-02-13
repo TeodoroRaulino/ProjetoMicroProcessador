@@ -4,6 +4,10 @@
 
 ![Fluxograma do Tabuleiro](https://user-images.githubusercontent.com/95657082/153773590-baaba02a-d3a8-4384-a422-b82a5a4868f6.jpg)
 
+<h3><b>Link do vídeo no YouTube</b></h3>
+
+https://www.youtube.com/watch?v=RtjsCfl51CU&ab_channel=RenanRibeiroDeOliveiraUFC
+
 <h3><b>Descrição</b></h3>
 
 <p>O projeto consiste em um jogo de tabuleiro, em que o jogador faz a sua jogada apertando o
