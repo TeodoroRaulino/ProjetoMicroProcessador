@@ -14,13 +14,6 @@ https://www.youtube.com/watch?v=RtjsCfl51CU&ab_channel=RenanRibeiroDeOliveiraUFC
 botão, o qual retornará um número. Esse número será a quantidade de movimentos feito
 pelo jogador no tabuleiro, isto é, quantas casas o jogador vai avançar. Sendo assim, se ao
 acionar o botão o usuário obtiver o número 4, mostrará no display e moverá 4 posições à frente.  
-  Isso irá ocorrer enquanto o tabuleiro não for finalizado, isto é, haverá partidas sucessivas
-em que os jogadores se alternam na ativação do botão, até que um dos usuários consiga
-alcançar a última posição do tabuleiro primeiro se tornando o vencedor. Então o tabuleiro
-será resetado e o jogo poderá ser reiniciado, esse reset também pode ocorrer antes do fim
+Isso irá ocorrer enquanto o tabuleiro não for finalizado, isto é, cada jogador, um por vez, irá lançar o dado até que o mesmo atinja a última posição do tabuleiro, obtendo uma pontuação(Sendo essa, o número de vezes que o jogador lançou o dado) terminando sua vez. O mesmo se aplica aos jogador dois. No final as pontuações serão comparadas e aquele que tiver a menor pontuação(menor lançamento de dados), irá ganhar. Então o tabuleiro anunciará na forma de displayer as pontuções de cada jogador e apontará o vencendor.
+Será resetado e o jogo poderá ser reiniciado, esse reset também pode ocorrer antes do fim
 do tabuleiro ser atingido, logo o jogo voltará para o início novamente.</p>
-
-<h3><b>Descrição técnica</b></h3>
-
-
-<h3><b>Teste</b></h3>
