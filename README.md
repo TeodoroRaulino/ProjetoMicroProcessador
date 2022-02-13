@@ -17,3 +17,11 @@ acionar o botão o usuário obtiver o número 4, mostrará no display e moverá 
 Isso irá ocorrer enquanto o tabuleiro não for finalizado, isto é, cada jogador, um por vez, irá lançar o dado até que o mesmo atinja a última posição do tabuleiro, obtendo uma pontuação(Sendo essa, o número de vezes que o jogador lançou o dado) terminando sua vez. O mesmo se aplica aos jogador dois. No final as pontuações serão comparadas e aquele que tiver a menor pontuação(menor lançamento de dados), irá ganhar. Então o tabuleiro anunciará na forma de displayer as pontuções de cada jogador e apontará o vencendor.
 Será resetado e o jogo poderá ser reiniciado, esse reset também pode ocorrer antes do fim
 do tabuleiro ser atingido, logo o jogo voltará para o início novamente.</p>
+
+
+<h3><b>Membros da equipe</b></h3>
+
+- Renan Ribeiro (471870)
+- Teodoro Raulino (429884)
+- Glasser Fernando (422693)
+- Anna Vithoria (385183)
